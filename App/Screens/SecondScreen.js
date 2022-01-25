@@ -4,7 +4,7 @@ import colors from '../config/colors';
 function SecondScreen() {
   return (
     <View style={styles.container}>
-      <Text>Second Screen</Text>
+      <Text>Tab 2</Text>
     </View>
   );
 }
